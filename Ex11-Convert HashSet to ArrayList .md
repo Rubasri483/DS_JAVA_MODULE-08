@@ -19,11 +19,7 @@ RegisterNumber:  212224240139
 */
 ```
 ```java
-/*
-Program to To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
-Developed by: HARSHIDA K S
-RegisterNumber:  212224040108
-*/
+
 import java.util.*;
 
 public class HashSetToArrayList {
